@@ -1,0 +1,22 @@
+{
+  "name": "pccetechyon",
+  "version": "1.0.0",
+  "description": "Pcce techyon repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saheelwagh/pccetechyon.git"
+  },
+  "author": "Saheel Wagh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saheelwagh/pccetechyon/issues"
+  },
+  "homepage": "https://github.com/saheelwagh/pccetechyon#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
