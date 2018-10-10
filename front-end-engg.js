@@ -1,7 +1,7 @@
 /*const MONGOOSE = require('mongoose');
 const SCHEMA = MONGOOSE.Schema;
 */
-const REQ = ["html", "css", "js"];
+const REQ = ["html", "css", "js", "react"];
 
 function FEE(exp, salary) {
     this.exp = exp;
