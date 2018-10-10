@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/saheelwagh/pccetechyon#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mongodb": "^3.1.7",
+    "mongoose": "^5.3.2"
   }
 }
